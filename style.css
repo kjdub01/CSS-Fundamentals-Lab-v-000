@@ -13,6 +13,11 @@ img {
   margin: 0 auto;
 }
 
+nav,
+figcaption {
+  
+}
+
 nav a {
   padding-right: 10px;
   padding-left: 10px;
